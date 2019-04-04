@@ -1,2 +1,3 @@
 # hello_world
-Just another repository
+
+shjohnso here currently learning C at 42 Silicon Valley.
